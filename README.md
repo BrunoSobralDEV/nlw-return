@@ -2,7 +2,11 @@
 <img src="https://github.com/BrunoSobralDEV/nlw-return/blob/main/info.PNG">
 
 [Material complementar](https://efficient-sloth-d85.notion.site/NLW-Return-4e1cf60ece8f42d08254810f7bb14401)
-
+# Servidor - NodeJS
+[Repositório](https://github.com/BrunoSobralDEV/nlw-return/tree/main/server)
+## ⚙ Tecnologias
+# Versão Web - ReactJS
+[Repositório](https://github.com/BrunoSobralDEV/nlw-return/tree/main/web)
 ## ⚙ Tecnologias - Versão Web
 <div>
   <img height="40" src="https://vitejs.dev/logo.svg" alt="vite-logo">
@@ -20,5 +24,6 @@
 - [Phosphor Icons](https://phosphoricons.com/)
 - [Headlessui](https://headlessui.dev/)
 
-## ⚙ Tecnologias - Versão Mobile
+# Versão Mobile - React Native
+## ⚙ Tecnologias
 #### Continua...
